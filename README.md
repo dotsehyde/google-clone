@@ -1,5 +1,5 @@
 <div align="center">
 
-### Google Website clone with basic HTML & CSS
+### Google Website clone with vanilla HTML & CSS
 
 </div>
